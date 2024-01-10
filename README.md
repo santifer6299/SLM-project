@@ -2,9 +2,10 @@
 Embark on your journey as a new game studio, immersing yourselves in the software lifecycle by initiating your first project: designing, developing, testing, and iterating upon a digital rendition of the timeless game, Tic-Tac-Toe. This endeavor showcases your team's technical prowess and underscores your commitment to mastering the intricacies of the software development process.
 
 ## Creators
-Santiago Fernandez Segura 
-Almin Huremovic
-Clemens Fritsche
+•	Santiago Fernandez Segura 
+•	Almin Huremovic
+•	Clemens Fritsche
+
 
 ## User Stories
 As a player, I want to be able to make a move by choosing some square, so that I can place my symbol.
